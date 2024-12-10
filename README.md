@@ -8,5 +8,5 @@ My present and future data science compentencies are:
 - Computer Applications
 - Projects in GritHub
 
-In order to test the inclusion of a photograph, I have included a photo of a butterfly in a field: 
+In order to test the inclusion of a photograph, I have included a photo of a butterfly in a field:
 ![butterfly](colorfulbutterfly.png)
